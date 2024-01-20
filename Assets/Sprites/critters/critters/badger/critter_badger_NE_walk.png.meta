@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -121,7 +121,196 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: critter_badger_NE_walk_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5e5cddc5f37f74c83ce4723db424de
+      internalID: 2039119770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critter_badger_NE_walk_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 6
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f99e13dfa6a1045a0b4150ead4426d
+      internalID: -1790053450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critter_badger_NE_walk_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 7
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bd7781d30362048bf47f670ee0d06e
+      internalID: 20651834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critter_badger_NE_walk_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 7
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50aeb8b5b61746643bfe8cd80bbb8af4
+      internalID: -1754426899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critter_badger_NE_walk_4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 6
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f237b7f10b3c702468538b22572dc5ed
+      internalID: 1829028488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critter_badger_NE_walk_5
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 8
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0a7d82884b9604ebfb99c344d8264b
+      internalID: -60689499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critter_badger_NE_walk_6
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 8
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1589a93cb6eb33348a9975f82c870bc2
+      internalID: 2122916892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critter_badger_NE_walk_7
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 7
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4c95099e60afb428649fd713803f8d
+      internalID: 1223249374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critter_badger_NE_walk_8
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 6
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a02485c0785cae4187b68a93b6ffa9f
+      internalID: -1286696074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +321,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      critter_badger_NE_walk_0: 2039119770
+      critter_badger_NE_walk_1: -1790053450
+      critter_badger_NE_walk_2: 20651834
+      critter_badger_NE_walk_3: -1754426899
+      critter_badger_NE_walk_4: 1829028488
+      critter_badger_NE_walk_5: -60689499
+      critter_badger_NE_walk_6: 2122916892
+      critter_badger_NE_walk_7: 1223249374
+      critter_badger_NE_walk_8: -1286696074
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

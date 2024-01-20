@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -121,7 +121,469 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: critter_badger_NW_idle_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 7
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb833641b56213440bbf9e72b81c9a32
+      internalID: -740659948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critter_badger_NW_idle_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 7
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aad031097bb8d044ae337489185581b
+      internalID: -1353239792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critter_badger_NW_idle_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 7
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c08a4e6bf1c04042b843a842bfb9149
+      internalID: 85012309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critter_badger_NW_idle_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 7
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8752acaacd56e444fa15788f6c99da4d
+      internalID: 692590809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critter_badger_NW_idle_4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 7
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74e06f086d039541a0bf6d5c743772c
+      internalID: -2090372272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critter_badger_NW_idle_5
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 7
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3960417aaed6c1643a70e6be55de9dc8
+      internalID: -425610297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critter_badger_NW_idle_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 7
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca44db8172d0edc4a97f357335bc7828
+      internalID: -1178408238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critter_badger_NW_idle_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 7
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5afe5948224ae9408c5ae02467493ae
+      internalID: 1914529274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critter_badger_NW_idle_8
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 7
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e491667d81b30cf4b8e33c6c5837224b
+      internalID: 1390638076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critter_badger_NW_idle_9
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 7
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91d2914a276483459f64568ca55b5ec
+      internalID: 958463731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critter_badger_NW_idle_10
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 7
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70355f53534d1df4aa85ac7662a4d3c7
+      internalID: 407502762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critter_badger_NW_idle_11
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 7
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a035b97d12d89d4cb101d562092889d
+      internalID: -1818855093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critter_badger_NW_idle_12
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 7
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdba1399b6a5b247a036add883f48d2
+      internalID: -860846631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critter_badger_NW_idle_13
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 7
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3c5c56267f8b84690838a66b01b912
+      internalID: -1893197576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critter_badger_NW_idle_14
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 7
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feff158cf305e2346925c87a602d63da
+      internalID: 1052393268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critter_badger_NW_idle_15
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 7
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0093bc59ac3f445479aebb1188efbb89
+      internalID: -644538919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critter_badger_NW_idle_16
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 7
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53755998418f42345b9ade4062e02531
+      internalID: -2139311646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critter_badger_NW_idle_17
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 7
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8e2b18b344f7f4da68d01d35467ba1
+      internalID: 1880373063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critter_badger_NW_idle_18
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 7
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c728c155af1b15341bc056bbb0289ac2
+      internalID: 1754373320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critter_badger_NW_idle_19
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 7
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebd4557e41b1814fa823c5b944e2878
+      internalID: 1480425465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critter_badger_NW_idle_20
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 7
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed23a2133c3285418d2f72423389dfb
+      internalID: -1081252608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critter_badger_NW_idle_21
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 7
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac982aed2ec37a748839813462e6ca48
+      internalID: 1885450158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +594,29 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      critter_badger_NW_idle_0: -740659948
+      critter_badger_NW_idle_1: -1353239792
+      critter_badger_NW_idle_10: 407502762
+      critter_badger_NW_idle_11: -1818855093
+      critter_badger_NW_idle_12: -860846631
+      critter_badger_NW_idle_13: -1893197576
+      critter_badger_NW_idle_14: 1052393268
+      critter_badger_NW_idle_15: -644538919
+      critter_badger_NW_idle_16: -2139311646
+      critter_badger_NW_idle_17: 1880373063
+      critter_badger_NW_idle_18: 1754373320
+      critter_badger_NW_idle_19: 1480425465
+      critter_badger_NW_idle_2: 85012309
+      critter_badger_NW_idle_20: -1081252608
+      critter_badger_NW_idle_21: 1885450158
+      critter_badger_NW_idle_3: 692590809
+      critter_badger_NW_idle_4: -2090372272
+      critter_badger_NW_idle_5: -425610297
+      critter_badger_NW_idle_6: -1178408238
+      critter_badger_NW_idle_7: 1914529274
+      critter_badger_NW_idle_8: 1390638076
+      critter_badger_NW_idle_9: 958463731
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
